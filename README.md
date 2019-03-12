@@ -1,3 +1,4 @@
+<!--jp-->
 # Redux Swapi
 
 ---
